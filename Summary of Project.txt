@@ -1,0 +1,5 @@
+I did part 2 genres of game, including what's the most popular genre of games(visualization of Top 5 Genres Game)
+,how does game performance differ across various genres(showing metrics including Average_Owner, Total_Owner_Millions etc),
+How fast did those Top 5 Genres grow(new games count over years by top 5 genre, growth rate of total games,top genres
+over years and accumulated growth rates of total games and top genres. I also created the dashboard 1 by doing Games Genre
+Yearly Growth Rate, Top 5 Popular Genres pie chart, and Top 10 Popular Games.
